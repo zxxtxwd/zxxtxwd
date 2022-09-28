@@ -6,14 +6,15 @@
 
 ### Languages & Tools Preference
 
-
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CMake-E34F26?style=flat&logo=cmake&logoColor=white">
+<img src="https://img.shields.io/badge/-Qt-eed718?style=flat&logo=qt&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src = "https://img.shields.io/badge/-Verilog-1572B6?style=flat&logo=Verilog&logoColor=white">
 <img src="https://img.shields.io/badge/-PCB-563D7C?style=flat&logo=pcb&logoColor=white">
+<img src="https://img.shields.io/badge/-FreeRTOS-cc6699?style=flat&logo=freertos&logoColor=ffffff">
 ---
 
 <!--
