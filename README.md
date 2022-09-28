@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxtxwd&show_icons=true&hide_border=true)
 
 <!--
 **zxxtxwd/zxxtxwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
