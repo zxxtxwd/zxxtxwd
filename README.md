@@ -11,7 +11,8 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
+<img src="https://img.shields.io/badge/-CMake-red?style=flat&logo=cmake&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/-Verilog-red?style=flat&logo=verilog&logoColor=FFFFFF"> 
 ---
 
 <!--
